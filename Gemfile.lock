@@ -17,16 +17,12 @@ GEM
     gherkin (4.0.0)
     multi_json (1.12.1)
     multi_test (0.1.2)
-    parallel (1.9.0)
-    parallel_tests (2.7.0)
-      parallel
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   cucumber (= 2.4.0)
-  parallel_tests (= 2.7.0)
 
 BUNDLED WITH
    1.12.4
